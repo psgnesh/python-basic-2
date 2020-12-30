@@ -1,1 +1,4 @@
-# python-basic-2
+firstname=input("enter your first name ")
+lastname=input("enter your last name")
+print(lastname +" "+ firstname)
+ 
